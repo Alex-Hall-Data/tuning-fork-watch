@@ -1,0 +1,65 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Thursday, March 11, 2021
+Design Path:        C:\Users\Alex\Documents\personal-projects\tuning-fork-watch\tuning-fork-watch.pcb
+Design Title:       
+Created:            08/03/2021 20:11:23
+Last Saved:         11/03/2021 21:28:53
+Editing Time:       2315 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        No
+Pads and Vias No
+Shapes        No
+Text          No
+Board         No
+Drills        No
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              No
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

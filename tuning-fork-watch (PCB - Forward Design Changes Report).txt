@@ -1,0 +1,15 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, March 12, 2021
+Design Path:        C:\Users\Alex\Documents\personal-projects\tuning-fork-watch\tuning-fork-watch.pcb
+Design Title:       
+Created:            08/03/2021 20:11:23
+Last Saved:         12/03/2021 19:50:19
+Editing Time:       3654 min
+Units:              thou (precision 0)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.
